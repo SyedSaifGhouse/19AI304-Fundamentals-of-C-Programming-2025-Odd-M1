@@ -30,6 +30,8 @@ To build a C program that prints integer, float,character, and string literals o
 #include <stdio.h>
 
 int main() {
+    printf("Name: SYED SAIF SYED GHOUSE\n");
+    printf("Register Number: 212224230286\n");
     int intLiteral = 10;
     float floatLiteral = 3.14;
     char charLiteral = 'A';
@@ -82,6 +84,8 @@ Thus, the program was implemented and executed successfully, and the required ou
 #include <stdio.h>
 #define PI 3.14159
 int main() {
+    printf("Name: SYED SAIF SYED GHOUSE\n");
+    printf("Register Number: 212224230286\n");
     const int DAYS = 7;
 
     printf("Value of macro constant PI: %f\n", PI);
@@ -119,6 +123,8 @@ Thus, the program was implemented and executed successfully, and the required ou
 ```
 #include <stdio.h>
 int main() {
+    printf("Name: SYED SAIF SYED GHOUSE\n");
+    printf("Register Number: 212224230286\n");
     int intVar = 25;
     float floatVar = 5.75;
     double doubleVar = 19.99;
@@ -175,6 +181,8 @@ Thus, the program was implemented and executed successfully, and the required ou
 ```
 #include <stdio.h>
 int main() {
+    printf("Name: SYED SAIF SYED GHOUSE\n");
+    printf("Register Number: 212224230286\n");
     int a, b;
     printf("Enter two integers: ");
     scanf("%d %d", &a, &b);
@@ -250,6 +258,8 @@ Thus, the program was implemented and executed successfully, and the required ou
 ```
 #include<stdio.h>
 int main(){
+    printf("Name: SYED SAIF SYED GHOUSE\n");
+    printf("Register Number: 212224230286\n");
     char ch;
     printf("Enter a character: ");
     scanf("%c",&ch);

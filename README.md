@@ -45,7 +45,7 @@ int main() {
 ```
 
 # Output:
-<img width="627" height="217" alt="image" src="https://github.com/user-attachments/assets/29fd4467-c38f-4976-a82d-2f9b7f6730c4" />
+<img width="822" height="339" alt="Screenshot 2025-12-05 213608" src="https://github.com/user-attachments/assets/0fad4607-890b-44c8-af68-8c1dacd38a64" />
 
 
 # Result: 
@@ -91,7 +91,7 @@ int main() {
 }
 ```
 # Output:
-<img width="474" height="125" alt="image" src="https://github.com/user-attachments/assets/e98dd7d3-8c29-4a60-b16c-2002bc7fce1d" />
+<img width="814" height="309" alt="Screenshot 2025-12-05 213936" src="https://github.com/user-attachments/assets/e8cf953c-e166-4f3f-84aa-28425d4b7c44" />
 
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
@@ -131,7 +131,7 @@ int main() {
 }
 ```
 # Output:
-<img width="534" height="276" alt="image" src="https://github.com/user-attachments/assets/87335803-b064-42b8-b193-898eff9129de" />
+<img width="817" height="374" alt="Screenshot 2025-12-05 214013" src="https://github.com/user-attachments/assets/5089a24b-bdc0-4950-8cdb-9063dc6c90b3" />
 
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
@@ -201,7 +201,7 @@ int main() {
 
 ```
 # Output:
-<img width="474" height="555" alt="image" src="https://github.com/user-attachments/assets/2939f8b3-b7f6-4504-9421-3cc5d7450551" />
+<img width="831" height="616" alt="Screenshot 2025-12-05 214140" src="https://github.com/user-attachments/assets/824acdc3-33db-4973-a879-3cdf39a33725" />
 
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
@@ -261,7 +261,7 @@ int main(){
 }
 ```
 # Output:
-<img width="472" height="244" alt="image" src="https://github.com/user-attachments/assets/f4ff4428-5fbf-4efd-8812-5f6e81f90267" />
+<img width="836" height="271" alt="Screenshot 2025-12-05 214301" src="https://github.com/user-attachments/assets/192b342e-c1ed-4308-8e9b-4e36eb6b0fa3" />
 
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
